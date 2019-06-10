@@ -1,0 +1,18 @@
+Higher the header tag number the smaller the text unless otherwise documented in CSS
+
+Break tag <br> is a self closing tag check documentation on tags to see which ones are self closing.
+
+HTML attributes defined after first tag ex <hr size="3">
+
+<!-- This is how to comment html -->
+
+index.html is a common name for the main page in a site
+
+boilerplate code is like a template used for many pages.
+
+<title> is the name that displays as the tab on the web browser </title>
+
+<meta charset="utf-8"> describes how the characters are encoded on the page as defined utf-8 is the standard for html5
+
+<meta name="description" content=" this is what helps search engines find the data you are looking for and will appear under the link
+
